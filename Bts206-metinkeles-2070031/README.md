@@ -1,2 +1,2 @@
-#Görsel programlama final ödevi 
-#Wpf uygulaması
+# Görsel programlama final ödevi 
+# Wpf uygulaması
