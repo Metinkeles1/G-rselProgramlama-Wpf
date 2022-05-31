@@ -1,0 +1,66 @@
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.cache
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.lref
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.exe
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.deps.json
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.json
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.dev.json
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.g.resources
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfoInputs.cache
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfo.cs
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\ÖZCAN\Desktop\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.genruntimeconfig.cache
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.exe
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.deps.json
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.json
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.dev.json
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.cache
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.lref
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.g.resources
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfoInputs.cache
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfo.cs
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\ÖZCAN\Desktop\Yeni klasör (2)\GorselPFinal\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.genruntimeconfig.cache
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.exe
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.deps.json
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.json
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.runtimeconfig.dev.json
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\bin\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.cache
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal_MarkupCompile.lref
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.g.resources
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfoInputs.cache
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.AssemblyInfo.cs
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.dll
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\ref\GorselPFinal.dll
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.pdb
+C:\Users\metin\Desktop\wpf-main\GorselPFinal\obj\Debug\net5.0-windows\GorselPFinal.genruntimeconfig.cache
